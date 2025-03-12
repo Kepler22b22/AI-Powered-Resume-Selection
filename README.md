@@ -6,11 +6,11 @@ An intelligent resume screening system that leverages machine learning to rank a
 
 ## 📌 Overview
 
-  This project aims to automate resume screening using natural language processing (NLP) and machine learning techniques. It extracts relevant information from resumes, compares them against job descriptions, and provides ranked results to assist recruiters in shortlisting candidates efficiently.
+  This project aims to automate resume screening using machine learning techniques. It extracts relevant information from resumes, compares them against job descriptions, and provides ranked results to assist recruiters in shortlisting candidates efficiently.
 
 ## 🚀 Features
 
-  - 🤖 **Machine Learning-Powered** – Utilizes NLP and ML models for resume parsing and ranking.
+  - 🤖 **Machine Learning-Powered** – Utilizes  ML models for resume parsing and ranking.
 
   - 📂 **Structured Data Extraction** – Extracts key information such as skills, experience, and education.
 
